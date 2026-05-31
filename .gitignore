@@ -1,0 +1,10 @@
+models/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+data/raw/
+data/processed/
+
+*.pkl
+*.joblib
